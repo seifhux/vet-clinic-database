@@ -1,0 +1,15 @@
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\bin\Debug\VetClinicApp.exe.config
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\bin\Debug\VetClinicApp.exe
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\bin\Debug\VetClinicApp.pdb
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\bin\Debug\aa\VetClinicApp.resources.dll
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\VetClinicApp.csproj.AssemblyReference.cache
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\VetClinicApp.Form1.resources
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\VetClinicApp.Properties.Resources.resources
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\VetClinicApp.Form1.aa.resources
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\VetClinicApp.csproj.GenerateResource.cache
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\VetClinicApp.csproj.CoreCompileInputs.cache
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\aa\VetClinicApp.resources.dll
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\VetClinicApp.exe
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\VetClinicApp.pdb
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\VetClinicApp.exe.config
+F:\Codes\Visual Studio 22\VetClinicApp\VetClinicApp\obj\Debug\VetClinicApp.Form2.resources
