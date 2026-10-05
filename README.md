@@ -301,10 +301,16 @@ A Windows Forms application built in C# provides a user interface over the datab
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
+Computer Science and AI students, Cairo University (FCAI)
 **Seif Hussein Aboelazaim**
-Computer Science and AI student, Cairo University (FCAI), aspiring Data Scientist
+**Mohamed Hany**
+**Mohamed Nabil**
+**Youssef Mohamed**
+**Anas elsisi**
+**Khaled Mohamed**
+
 
 - LinkedIn: [linkedin.com/in/seifaboelazaim](https://linkedin.com/in/seifaboelazaim)
 - Email: seifhuss74@gmail.com
