@@ -2,7 +2,6 @@
 
 A relational database system designed to manage the day-to-day operations of a veterinary clinic: owners, pets, veterinarians, appointments, medical records, treatments, medications, billing, and more.
 
-> **Note:** Replace everything in `[square brackets]` with your project's real details, and delete any section that doesn't apply.
 
 ---
 
@@ -55,7 +54,6 @@ A relational database system designed to manage the day-to-day operations of a v
 - **Medication and inventory:** stock levels and low-stock alerts
 - **Billing and payments:** itemized invoices, payment status, and methods
 - **Reports:** revenue, busiest vets, most common diagnoses, overdue vaccinations
-- [Add any other features]
 
 ---
 
@@ -63,11 +61,9 @@ A relational database system designed to manage the day-to-day operations of a v
 
 | Component | Technology |
 |---|---|
-| Database engine | [SQL Server / MySQL / PostgreSQL / SQLite] |
-| Language | SQL ([T-SQL / PL/pgSQL / MySQL dialect]) |
-| Modeling tool | [dbdiagram.io / draw.io / SSMS Diagrams / MySQL Workbench] |
-| Visualization (optional) | [Power BI / other] |
-| Version control | Git and GitHub |
+| Database engine | SQL Server |
+| Language | SQL - C# |
+| Modeling tool | PowerDesigner |
 
 ---
 
@@ -78,7 +74,7 @@ The database follows these steps:
 1. **Requirements analysis:** identifying the entities, actors, and workflows of a vet clinic
 2. **Conceptual design:** an ER model with entities, attributes, and relationships
 3. **Logical design:** mapping the ER model to relational tables
-4. **Normalization:** reaching [3NF / BCNF] to remove redundancy
+4. **Normalization:** to remove redundancy
 5. **Physical design:** data types, keys, constraints, and indexes
 
 ---
@@ -87,7 +83,6 @@ The database follows these steps:
 
 ![ERD](docs/erd.png)
 
-*(Add your diagram image to the `docs/` folder and make sure the filename matches.)*
 
 **Main entities:** `Owner`, `Pet`, `Veterinarian`, `Appointment`, `MedicalRecord`, `Treatment`, `Medication`, `Prescription`, `Vaccination`, `Invoice`, `Payment`
 *(Adjust to match your actual tables.)*
