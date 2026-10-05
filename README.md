@@ -304,12 +304,12 @@ A Windows Forms application built in C# provides a user interface over the datab
 ## 👤 Authors
 
 Computer Science and AI students, Cairo University (FCAI)
-**Seif Hussein Aboelazaim**
-**Mohamed Hany**
-**Mohamed Nabil**
-**Youssef Mohamed**
-**Anas elsisi**
-**Khaled Mohamed**
+- **Seif Hussein Aboelazaim**
+- **Mohamed Hany**
+- **Mohamed Nabil**
+- **Youssef Mohamed**
+- **Anas elsisi**
+- **Khaled Mohamed**
 
 
 - LinkedIn: [linkedin.com/in/seifaboelazaim](https://linkedin.com/in/seifaboelazaim)
